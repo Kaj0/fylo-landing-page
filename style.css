@@ -169,6 +169,9 @@ input:focus,button:focus{
     padding: 20px 0;
     font-family: 'Raleway', sans-serif;
 }
+
+.box4 .left p{font-size:14px;}
+
 .box4 .right form{
     display: flex;
     flex-direction: column;
